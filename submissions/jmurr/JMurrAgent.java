@@ -16,6 +16,7 @@ import ai.core.ParameterSpecification;
 import ai.evaluation.EvaluationFunction;
 import ai.evaluation.SimpleSqrtEvaluationFunction3;
 import ai.mcts.naivemcts.NaiveMCTS;
+import ai.mcts.naivemcts.NaiveMCTSNode;
 import java.util.ArrayList;
 import java.util.List;
 import rts.GameState;
